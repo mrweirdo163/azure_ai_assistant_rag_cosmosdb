@@ -1,1 +1,1 @@
-# azure-ai-assistant
+# azure_ai_assistant_rag_cosmosdb
